@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EcoPlanet</string>
+
+    <string-array name="countryList">
+        <item>Выберите городa</item>
+        <item>Москва</item>
+        <item>Санкт-Питербург</item>
+        <item>Тюмень</item>
+        <item>Казань</item>
+    </string-array>
+</resources>

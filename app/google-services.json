@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83811585544",
+    "project_id": "ecoplanet-fdd66",
+    "storage_bucket": "ecoplanet-fdd66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83811585544:android:908d91c3db27340507cbbd",
+        "android_client_info": {
+          "package_name": "com.app.ecoplanet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-GEiT4J6x8ZhZ-SEe5gwK_9cFDbQvob0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
