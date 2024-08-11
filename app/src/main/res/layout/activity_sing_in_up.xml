@@ -80,7 +80,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:visibility="visible">
+        android:visibility="gone">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -173,7 +173,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:visibility="gone">
+        android:visibility="visible">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -196,6 +196,7 @@
                 android:background="@color/gray"
                 android:hint="Номер телефона"
                 android:layout_marginStart="10dp"
+                android:inputType="phone"
                 android:fontFamily="@font/montserrat_semi_bold"/>
 
         </LinearLayout>

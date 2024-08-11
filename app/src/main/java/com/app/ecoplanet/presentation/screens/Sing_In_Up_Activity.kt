@@ -13,5 +13,4 @@ class Sing_In_Up_Activity : AppCompatActivity() {
         setContentView(binding.root)
     }
 
-
 }
