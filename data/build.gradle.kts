@@ -34,10 +34,6 @@ android {
 }
 
 dependencies {
-
-    implementation(libs.androidx.core.ktx)
-    implementation(libs.androidx.appcompat)
-    implementation(libs.material)
     implementation(libs.firebase.firestore)
     implementation(project(":domain"))
     implementation(libs.firebase.auth.ktx)

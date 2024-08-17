@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">EcoPlanet</string>
-
+c
     <string-array name="countryList">
-        <item>Выберите городa</item>
+        <item>Выберите город</item>
         <item>Москва</item>
         <item>Санкт-Питербург</item>
         <item>Тюмень</item>
